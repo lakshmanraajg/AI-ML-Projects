@@ -72,3 +72,8 @@ To test with your own digits:
    ```bash
    git clone https://github.com/<your-username>/Handwritten-Digits-Recognition.git
    cd Handwritten-Digits-Recognition
+
+<p align="center">
+  <img src="number_9.png" width="600" alt="3Blue1Brown">
+</p>
+
